@@ -54,63 +54,78 @@
                 See All Food-->
             </h2>
         </div>
-        <div>
-            <div>
+        <div class="all">
+            <div class="upside">
                 <div>
-                    <img src="img/turkish 1.jpg" alt="" srcset="" width="295px" height="300px" style="display: flex; position: absolute; margin-left: 3%;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/turkish 1.jpg" alt="" srcset="" width="297px" height="350px" style="border-radius: 35px; display: flex; position: relative; margin-left: 2%;">
+                    <!-- <i class="fa-heart" style="margin-left: 60%; font-size: 100px; color: #005bf8;"></i> -->
+                    <div class="divtxt">
+                    <span class="firsttxt"> Random Fruit </span><br><span class="smalltxt">Indian Mix</span>
+                   </div>
+                <div>
+                    <img src="img/potato-korokke.jpg" alt="" srcset=""  width="297px" height="350px" style=" border-radius: 35px; margin-top: -26%; margin-left: 26%; display: flex; position: relative;">
+                   <div class="divtx">
+                    <span class="frsttxt"> Random Fruit </span><br><span class="smlltxt">Indian Mix</span>
+                 </div>
                 </div>
                 <div>
-                    <img src="img/turkish 2.jpeg" alt="" srcset=""  width="295px" height="300px" style="margin-top: -3%; margin-left: 27%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/turkish 2.jpeg" alt="" srcset="" width="297px" height="350px" style="border-radius: 35px; margin-top: -26%; margin-left: 50.5%; display: flex; position: relative;">
+                   <div class="ivtxt">
+                    <span class="irsttxt"> Random Fruit </span><br><span class="malltxt">Indian Mix</span>
+                   </div>
                 </div>
                 <div>
-                    <img src="img/potato-korokke.jpg" alt="" srcset="" width="295px" height="300px" style="margin-top: -5.3%; margin-left: 52%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
-                </div>
-                <div>
-                    <img src="img/kai.jpg" alt="" srcset=""  width="295px" height="300px" style="margin-top: -7.9%; margin-left: 76%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/kai.jpg" alt="" srcset=""  width="297px" height="350px" style="border-radius: 35px; margin-top: -26%; margin-left: 75%; display: flex; position: relative;">
+                   <div class="vtxt">
+                    <span class="rsttxt"> Random Fruit </span><br><span class="alltxt">Indian Mix</span>
+                   </div>
                 </div>
             </div>
-            <div>
+
+
+            <div class="down">
                 <div>
-                    <img src="img/JOO.jpeg" alt="" srcset=""  width="295px" height="300px" style="margin-top: 14.9%; margin-left: 3%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/JOO.jpeg" alt="" srcset=""  width="297px" height="350px" style="border-radius: 35px; margin-top: 6.9%; margin-left: 2%; display: flex; position: relative;">
+                    <div class="classtxt">
+                    <span class="downttxt"> Random Fruit </span><br><span class="smalldown">Indian Mix</span>
+                   </div>
                 </div>
                 <div>
-                    <img src="img/Fufu.webp" alt="" srcset="" width="295px" height="300px" style="margin-top: 12.2%; margin-left: 27%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/Fufu.webp" alt="" srcset="" width="297px" height="350px" style="border-radius: 35px; margin-top: -25.9%; margin-left: 26%; display: flex; position: relative;">
+                    <div class="classtx">
+                    <span class="downtxt"> Random Fruit </span><br><span class="smlldown">Indian Mix</span>              
+                 </div>
+ 
                 </div>
                 <div>
-                    <img src="img/cinease.webp" alt="" srcset=""  width="295px" height="300px" style="margin-top: 9.5%; margin-left: 52%; display: flex; position: absolute;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/cinease.webp" alt="" srcset=""  width="297px" height="350px" style="border-radius: 35px; margin-top: -25.9%; margin-left: 50.5%; display: flex; position: relative;">
+                   <div class="lasstxt">
+                    <span class="owntxt"> Random Fruit </span><br><span class="malldown">Indian Mix</span>
+                   </div>
                 </div>
                 <div>
-                    <img src="img/chinease food 2.jpg" alt="" srcset="" width="295px" height="300px" style="margin-top: 6.5%; margin-left: 76%; display: flex;">
-                    Random Fruit <br>Indian Mix
+                    <img src="img/chinease food 2.jpg" alt="" srcset="" width="297px" height="350px" style="border-radius: 35px; margin-top: -25.9%; margin-left: 75%; display: flex; position: relative;">
+                   <div class="asstxt">
+                    <span class="ontxt"> Random Fruit </span><br><span class="alldown">Indian Mix</span>
+                   </div>
                 </div>
             </div>
         </div>
 
     </section>
     <!-- section 3 -->
-    <section class="s_height">
-        <div>
-            <div>
-                <h2>
-                    Explore more food with <br>our mobile app
-                </h2>
-                <span>
-                    Get it on Google Play
-                </span>
-                <span>
-                    Download on the Apple Store 
-                </span>
-            </div>
-            <div>
-                <img src="img/iphone.jpg" alt="" srcset="">
-            </div>
+    <section class="s_height3">
+        <div class="ip">
+            <h2 class="tat">
+                Explore more food with <br>our mobile app
+            </h2>
+            <span>
+                <img src="img/Google_Play_Store_badge_EN.svg.png" alt="google" width="20%" style=" margin-left: -63%; margin-top: 5%;" >
+            </span>
+            <span>
+                <img src="img/download.png" alt="google" width="20%" style="margin-left: 2%; margin-top: 5%; position: absolute;"  >
+            </span>
+            <img src="img/67400987.jpg" alt="" srcset="" width="36%" style="margin-left: 29.5%; margin-top: -11%; position: absolute;">
         </div>
 
     </section>
