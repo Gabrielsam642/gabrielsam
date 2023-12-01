@@ -124,7 +124,7 @@ body .home .tx .sr {
 }
 body .home .tx .sr .im {
   position: relative;
-  margin-left: 47.9%;
+  margin-left: 48.1%;
   margin-top: -6%;
   border-top-left-radius: 25%;
   height: 600px;
@@ -184,4 +184,253 @@ body .s_height .hen .see {
   margin-top: -10.5%;
   padding-left: 80%;
   font-size: 17.5px;
+}
+body .s_height .all {
+  justify-content: center;
+}
+body .s_height .all .upside {
+  text-align: center;
+}
+body .s_height .all .upside .divtxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 2%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .upside .divtxt .firsttxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .upside .divtxt .smalltxt {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .upside .divtx {
+  position: absolute;
+  background-color: rgba(243, 166, 22, 0.808);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 26%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .upside .divtx .frsttxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .upside .divtx .smlltxt {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .upside .ivtxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 50.5%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .upside .ivtxt .irsttxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .upside .ivtxt .malltxt {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .upside .vtxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 75%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .upside .vtxt .rsttxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .upside .vtxt .alltxt {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .down {
+  text-align: center;
+}
+body .s_height .all .down .classtxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 2%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .down .classtxt .downttxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .down .classtxt .smalldown {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .down .classtx {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 26%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .down .classtx .downtxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .down .classtx .smlldown {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .down .lasstxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 50.5%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .down .lasstxt .owntxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .down .lasstxt .malldown {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height .all .down .asstxt {
+  position: absolute;
+  background-color: rgba(236, 236, 236, 0.8156862745);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10%;
+  width: 297px;
+  height: 21%;
+  margin-left: 75%;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+}
+body .s_height .all .down .asstxt .ontxt {
+  position: absolute;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-left: -43%;
+  margin-top: 4%;
+}
+body .s_height .all .down .asstxt .alldown {
+  position: absolute;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-top: 25%;
+  margin-left: -43%;
+}
+body .s_height3 {
+  position: relative;
+  justify-content: center;
+  background-color: rgb(137, 164, 175);
+  height: 100%;
+  width: 100%;
+  margin-top: 15%;
+}
+body .s_height3 .ip {
+  position: absolute;
+  margin-left: 15%;
+  text-align: center;
+  justify-content: center;
+  background-color: #ffffff;
+  width: 70%;
+  height: 40%;
+  margin-top: 8%;
+}
+body .s_height3 .ip .tat {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 70px;
 }/*# sourceMappingURL=style.css.map */
